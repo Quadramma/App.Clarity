@@ -41,7 +41,7 @@ NMSApp.config(['$httpProvider', '$sceDelegateProvider',
 var GlobalSettings = {
     transformRequest: true //TRUE FOR CLARITY !!!
     ,
-    productionMode: false
+    productionMode: true
 };
 
 
@@ -74,13 +74,13 @@ NMSApp.factory('AppConfig', [
         var settings = {
             apiClarityPathVS: "http://localhost:9000/api/",
             apiLocalhost1336: "http://localhost:1336/api/",
-            apiLocalhostIISIP: "http://192.168.11.128/WebApi/api/",
-            apiLocalhostIIS: "http://192.168.11.129/WebApi/api/",
+            apiLocalhostIISIP: "http://192.168.11.129/api/api/",
+            apiLocalhostIIS: "http://localhost/api/api/",
             apiPathQuadramma: "http://www.quadramma.com/pruebas/ga_remake/backend/api",
             apiLocal: "backend/api"
         }
 
-        settings.apiClarityProduction = settings.apiLocalhostIIS; //CLARITY
+        settings.apiClarityProduction = settings.apiLocalhostIISIP; //CLARITY
         settings.apiClarityDev = settings.apiClarityPathVS; //CLARITY
     
         settings.apiClarity = GlobalSettings.productionMode ?
