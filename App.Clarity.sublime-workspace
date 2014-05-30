@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"Failure"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"login",
+				"loginame"
+			],
+			[
+				"loi",
+				"loginame"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"Comie",
+				"ComienzoHasta"
+			],
+			[
+				"Estado",
+				"EstadoContactoID"
+			],
+			[
+				"Estad",
+				"EstadoContacto"
+			],
+			[
+				"EstadoCo",
+				"EstadoContatoID"
+			],
+			[
+				"tema",
+				"TemaID"
+			],
+			[
+				"fo",
+				"focused"
+			],
+			[
+				"emrp",
+				"empresaID"
+			],
+			[
+				"Cla",
+				"apiCLARITYDesarrollo"
+			],
+			[
+				"apiCla",
+				"apiCLARITYProduccion"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"desta",
+				"destacados"
+			],
+			[
+				"spl",
+				"splits"
+			],
+			[
+				"GA",
+				"GAHelper"
+			],
+			[
+				"cur",
+				"currentItem"
+			],
+			[
+				"curr",
+				"currentItem"
+			],
+			[
+				"appe",
+				"append"
+			],
+			[
+				"_ca",
+				"_category_id"
+			],
+			[
+				"slide",
+				"slider_urls"
+			],
+			[
+				"slid",
+				"slider_urls"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"togg",
+				"toggleArrows"
+			],
+			[
+				"cate",
+				"categoryDescription"
+			],
+			[
+				"GAC",
+				"GACollection"
+			],
+			[
+				"_cat",
+				"_categoryId"
+			],
+			[
+				"_cate",
+				"_categoryData"
+			],
+			[
+				"Cate",
+				"CategoryMode"
+			],
+			[
+				"cat",
+				"categoryDescription"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"toggl",
+				"toggleItem1"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"_",
+				"_category_id"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"header",
+				"headerContent"
+			],
+			[
+				"MSG_",
+				"MSG_BODY"
+			],
+			[
+				"MSG",
+				"MSG_FROM"
+			],
+			[
+				"POS",
+				"POST_FIELD_EMAIL"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"al",
+				"alt	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"setSynt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTMLBeautify"
+			],
+			[
+				"JS",
+				"Format: Javascript"
+			],
+			[
+				"HTML",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/GIT/App.Clarity/bower.json",
+		"/C/GIT/App.Clarity/package.json",
+		"/C/GIT/ClarityApp/public/views/nodes/company/company.create.html",
+		"/C/GIT/ClarityApp/public/js/routes/appRoutes.js",
+		"/C/GIT/ClarityApp/public/js/config/app.js",
+		"/E/ClarityApp/git_video_features.txt",
+		"/C/GIT/ClarityApp/public/views/nodes/company/company.items.html",
+		"/C/GIT/ClarityApp/public/views/nodes/company/company.edit.html",
+		"/C/GIT/ClarityApp/public/js/controllers/clarity/ClarityAppControllers.js",
+		"/C/GIT/ClarityApp/public/views/layouts/clarity/clarity.home.html",
+		"/C/GIT/ClarityApp/public/js/modules/main/NMSAppModule.js",
+		"/C/GIT/ClarityApp/public/views/layouts/clarity/clarity.header.html",
+		"/C/GIT/ClarityApp/public/views/layouts/clarity/clarity.login.html",
+		"/C/GIT/ClarityApp/public/views/layouts/clarity/clarity.layout.html",
+		"/C/GIT/ClarityApp/public/js/routes/clarity/appRoutes.clarity.js",
+		"/C/GIT/ClarityApp/public/js/modules/auth/NMSAuthModule.js",
+		"/C/GIT/ClarityApp/public/js/controllers/NMSAppController.js",
+		"/C/GIT/ClarityApp/public/js/controllers/clarity/ClarityLoginController.js",
+		"/C/GIT/ClarityApp/public/js/modules/config/NMSConfigModule.js",
+		"/C/GIT/ClarityApp/public/css/clarity.style.css",
+		"/C/GIT/ClarityApp/public/index.html",
+		"/C/GIT/ClarityApp/public/views/layouts/clarity/clarity.logo.html",
+		"/C/GIT/ClarityApp/public/views/nodes/novedad/novedad.edit.html",
+		"/C/GIT/ClarityApp/public/views/nodes/novedad/novedad.create.html",
+		"/C/GIT/ClarityApp/public/js/model/FrontEndHelper.js",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/collection.php",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/projects.php",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/gafront.js",
+		"/C/GIT/ClarityApp/public/js/controllers/clarity/NovedadController.js",
+		"/C/GIT/ClarityApp/public/views/nodes/novedad/novedad.items.html",
+		"/C/GIT/ClarityApp/public/js/controllers/clarity/ContactoController.js",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/forms.php",
+		"/C/GIT/ClarityApp/public/js/routes/clarity/appRoutes.novedad.js",
+		"/C/GIT/ClarityApp/public/views/layouts/clarity/clarity.tree.html",
+		"/C/GIT/ClarityApp/public/js/services/NovedadService.js",
+		"/C/GIT/ClarityApp/public/views/nodes/contacto/contacto.edit.html",
+		"/C/GIT/ClarityApp/public/js/services/EmpresaService.js",
+		"/C/GIT/ClarityApp/public/views/nodes/novedad/novedad.layout.html",
+		"/C/GIT/NMS/public/js/model/FrontEndHelper.js",
+		"/C/GIT/NMS/public/views/nodes/contacto/contacto.list.html",
+		"/C/GIT/NMS/public/js/controllers/clarity/ContactoController.js",
+		"/C/GIT/NMS/public/index.html",
+		"/C/GIT/NMS/public/js/controllers/clarity/TemaController.js",
+		"/C/GIT/NMS/public/views/nodes/contacto/contacto.edit.html",
+		"/C/GIT/NMS/public/views/layouts/clarity/clarity.tree.html",
+		"/C/GIT/NMS/public/views/layouts/nms/login.html",
+		"/C/GIT/NMS/public/index.disabled.info",
+		"/C/GIT/NMS/public/views/nodes/tema/tema.create.html",
+		"/C/GIT/NMS/public/js/routes/clarity/appRoutes.tema.js",
+		"/C/GIT/NMS/public/js/config/app.js",
+		"/C/GIT/NMS/public/js/routes/clarity/appRoutes.contacto.js",
+		"/C/GIT/NMS/public/views/nodes/tema/tema.edit.html",
+		"/C/GIT/NMS/public/js/controllers/clarity/CrmController.js",
+		"/C/GIT/WebApi-Clarity/.gitignore",
+		"/C/GIT/NMS/.gitignore",
+		"/C/Program Files (x86)/Git/doc/git/html/git-reset.html",
+		"/C/GIT/NMS/public/views/nodes/crm/crm.layout.html",
+		"/C/GIT/NMS/public/views/nodes/tema/tema.layout.html",
+		"/C/GIT/NMS/public/views/nodes/tema/tema.list.html",
+		"/C/GIT/NMS/public/views/nodes/crm/crm.list.html",
+		"/C/GIT/NMS/public/views/nodes/crm/crm.edit.html",
+		"/C/GIT/NMS/public/js/controllers/NMSAppController.js",
+		"/C/GIT/NMS/deprecated/crm.js",
+		"/C/GIT/NMS/public/views/layouts/clarity/clarity.layout.html",
+		"/C/GIT/NMS/public/views/layouts/clarity/clarity.header.html",
+		"/C/GIT/NMS/public/css/clarity.style.css",
+		"/C/GIT/NMS/public/views/layouts/clarity/clarity.home.html",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/jlm.js",
+		"/C/GIT/NMS/public/js/routes/clarity/appRoutes.crm.js",
+		"/C/GIT/NMS/public/js/services/clarity/CRMServices.js",
+		"/C/Users/Javier/Desktop/head.php",
+		"/C/GIT/NMS/public/views/controls/nms.selectkey.html",
+		"/C/GIT/NMS/public/views/controls/nms.dropdown.html",
+		"/C/GIT/NMS/public/js/directives/SemanticUIDirectives.js",
+		"/C/GIT/NMS/public/js/apps/nms.app.js",
+		"/C/GIT/NMS/public/views/nodes/product/product.edit.html",
+		"/C/GIT/NMS/public/js/services/clarity/CoreTablesServices.js",
+		"/C/GIT/NMS/public/js/model/nms/ResourceControllerMixinService.js",
+		"/C/GIT/NMS/public/js/services/clarity/TemaService.js",
+		"/C/GIT/NMS/public/js/routes/appRoutes.js",
+		"/C/GIT/NMS/public/js/routes/clarity/appRoutes.clarity.js",
+		"/C/GIT/NMS/public/js/model/clarity/ResourceControllerMixinService.js",
+		"/C/GIT/NMS/public/views/layouts/berp/berp.tree.html",
+		"/C/GIT/NMS/public/js/routes/berp/appRoutes.berp.js",
+		"/C/GIT/NMS/public/views/login.html",
+		"/C/GIT/NMS/public/js/routes/berp/appRoutes.client.js",
+		"/C/GIT/NMS/README.md",
+		"/C/GIT/NMS/.bowerrc",
+		"/C/GIT/NMS/public/js/controllers/HomeController.js",
+		"/C/GIT/NMS/public/views/modulos/crm/crm.filtroform.html",
+		"/C/GIT/NMS/public/js/config/appRoutes.js",
+		"/C/GIT/NMS/public/js/routes/appRoutes.tema.js",
+		"/C/GIT/NMS/public/views/layouts/clarity/clarity.login.html",
+		"/C/GIT/NMS/public/js/routes/berp/appRoutes.supplier.js",
+		"/C/GIT/NMS/public/views/layouts/basicerp/berp.header.html",
+		"/C/GIT/NMS/public/views/layouts/basicerp/berp.layout.html",
+		"/C/GIT/NMS/public/views/layouts/basicerp/berp.home.html",
+		"/C/GIT/NMS/public/views/layouts/basicerp/berp.tree.html",
+		"/C/GIT/NMS/public/js/routes/appRoutes.crm.js",
+		"/C/GIT/NMS/public/views/modulos/crm/crm.create.html",
+		"/C/GIT/NMS/public/views/modulos/crm/crm.edit.html",
+		"/C/GIT/NMS/public/js/services/TemaService.js",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/.httaccess",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/GaController.js",
+		"/C/CODE/ga_rebuild/index.php",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/GIT/GAIluminacion/public/views/ga.layout.html",
+		"/C/GIT/GAIluminacion/public/js/config/app.js",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/GIT/GAIluminacion/public/js/other/gafront.js",
+		"/C/GIT/GAIluminacion/public/js/controllers/GaController.js",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/.htaccess.bak",
+		"/C/GIT/GAIluminacion/public/index.html",
+		"/C/Users/Javier/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/public/index.html",
+		"/C/Users/quadramma/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/public/views/ga.layout.html",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/public/js/controllers/GaController.js",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/public/js/config/appRoutes.js",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/public/js/config/app.js",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/bower.json",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/.gitignore",
+		"/C/Users/quadramma/qmGIT/GAIluminacion/.bowerrc",
+		"/C/Users/quadramma/AppData/Local/Temp/fz3temp-1/state.js",
+		"/C/Users/quadramma/AppData/Local/Temp/fz3temp-1/gafront.js",
+		"/C/Users/quadramma/qmGIT/NMS/.bowerrc",
+		"/C/Users/quadramma/Google Drive/quadramma/neutrogena/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"FormValidationDefinition",
+			"password",
+			"work_item",
+			"beforeSave",
+			"Novedad",
+			"autoBindItem",
+			"subAbmCancel()",
+			"FormValidationDefinition",
+			"Empresa",
+			"EmpresaSer",
+			"Empresa",
+			"Novedad",
+			"NovedadService",
+			"novedad",
+			"ID",
+			"tema",
+			"Tema",
+			"Contacto",
+			"contacto",
+			"bindTemaDropdown",
+			"remoteScope",
+			"ContactoHelperModule",
+			"TemaHelperModule",
+			"FormValidationDefinition",
+			"FormValidationDefinition ",
+			"crm",
+			"{\n",
+			"FormValidationDefinition",
+			"crm",
+			"AppConfig",
+			"ContactoService",
+			"ui.form",
+			"BindFormValidations",
+			"SelectKeyController",
+			"empresaID",
+			"productionMode",
+			"onSelectHandler",
+			"apiGADesarrollo",
+			"apiGAProduccion",
+			"apiCLARITYDesarrollo",
+			"apiCLARITYProduccion",
+			" //",
+			".list",
+			"\"",
+			"bindNavMenuLinkActiveOnClick",
+			"SET ",
+			"GAHelper",
+			"active",
+			"getRelatedItems",
+			"changePageAsync",
+			"areYouSure",
+			"redraw",
+			"log",
+			"console.log",
+			"ajax",
+			"autoLiActiveBasedOnScroll",
+			"GAHelper",
+			"projects",
+			"projects_link",
+			"deselectNavMenuLinks",
+			"footer",
+			".top_slider .slide2 .flex_caption1 .title4",
+			"title4",
+			".slide2",
+			"body",
+			"drawGACollections",
+			"gaCollections",
+			"GACollection",
+			"DINNextLTProLight",
+			"DINNextLTProUltraLight",
+			"DINNextLTProRegular",
+			"GAImagePath",
+			">",
+			"echo",
+			"Collection",
+			"Collec",
+			"productModal",
+			"Proyectos",
+			"cbCategory",
+			"fillProductView",
+			"bindButtonEdit",
+			"redrawProducts",
+			"fillImagesListView",
+			"saveProductHandler",
+			"uploadPath",
+			"ajax",
+			"saveProductHandler",
+			"btn-saveProduct",
+			"uploadPath",
+			"descrip",
+			"flexslider",
+			"single_portfolio_post",
+			"productModal",
+			"ga-collection-expand",
+			"DINNextLTProUltraLight",
+			"productModal",
+			"padbot20",
+			"ga-col",
+			"ga-cole",
+			"_categoryId",
+			"console",
+			"coll",
+			"colec",
+			"body",
+			"appSiteRootPath",
+			"<?=$GLOBALS[\"appSiteRootPath\"]?>",
+			"file",
+			"container",
+			"body",
+			"90",
+			"90px",
+			"min-height",
+			"blog",
+			"akamahid",
+			"single_page",
+			"container",
+			"src",
+			"uploadButtonImage",
+			"category",
+			"cbCategory",
+			"saveProductHandler",
+			"upload",
+			"bindUploadInput",
+			"redraw",
+			"redrawProducts",
+			"session.productCollection",
+			"bindDeletePopupButtons",
+			"bindButtonDelete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Empresa",
+			"EmpresaService",
+			"empresa",
+			"novedad",
+			"Novedad",
+			"novedad",
+			"item",
+			"contacto",
+			"apiGADev",
+			"apiGAProduction",
+			"apiClarityDev",
+			"apiClarityProduction",
+			".items",
+			"'",
+			"_category_id",
+			"ga-coll",
+			"",
+			"containerDisabled",
+			"cloneCategoryContainer",
+			"project.php",
+			"Descripcion",
+			"11 de abril, 2014",
+			"#sidebar",
+			"class=\"panel left sidebar\"",
+			".sidebar",
+			"$GLOBALS[",
+			"s2-text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "App.Clarity.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

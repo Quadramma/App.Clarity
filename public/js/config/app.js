@@ -5,9 +5,7 @@ var _nms = {};
 smokesignals.convert(_nms);
 
 //------------------------------
-
 var NMSApp = angular.module("NMSApp", [
-
     //ANGULAR LIBS
     "infinite-scroll",
 
@@ -18,38 +16,14 @@ var NMSApp = angular.module("NMSApp", [
     //NMS ================================================
     "NMSAppModule",
 
-    /*"SemanticUIDirectives",*/
     "NMSHelperService",
-    /*"ResourceControllerMixinService",*/
-
 
     //CLARITY ================================================
     "ClarityAppModule",
-    
     "ClarityLoginModule",
-
     "TemaNode",
     "ContactoNode",
     "NovedadNode",
-    //CRM
-    //"CRMServices",
-    //"CoreTablesServices",
-    //-TEMA
-    //"TemaCtrl",
-    //"TemaService",
-
-
-    //GA ============================================
-    /*
-    "GaLoginService",
-    "GAFileService",
-    "CategoryServ",
-    "CategoryCtrl",
-    "ProductServ",
-    "ProductCtrl",
-    "ProjectServ",
-    "ProjectCtrl"
-    */
 ]);
 
 
@@ -67,7 +41,7 @@ NMSApp.config(['$httpProvider', '$sceDelegateProvider',
 var GlobalSettings = {
     transformRequest: true //TRUE FOR CLARITY !!!
     ,
-    productionMode: true
+    productionMode: false
 };
 
 
@@ -108,15 +82,9 @@ NMSApp.factory('AppConfig', [
 
         settings.apiClarityProduction = settings.apiLocalhostIIS; //CLARITY
         settings.apiClarityDev = settings.apiClarityPathVS; //CLARITY
-        
-        settings.apiGAProduction = settings.apiPathQuadramma; //GA
-        settings.apiGADev = settings.apiPathQuadramma; //GA
-
+    
         settings.apiClarity = GlobalSettings.productionMode ?
             settings.apiClarityProduction : settings.apiClarityDev;
-
-        settings.apiGa = GlobalSettings.productionMode ?
-            settings.apiGAProduction : settings.apiGADev;
 
         return settings;
     }
