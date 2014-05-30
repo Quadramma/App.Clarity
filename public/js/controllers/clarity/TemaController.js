@@ -67,9 +67,17 @@ angular.module('TemaNode', [
         if (confirm("Borrar?")) {
             Tema.delete({
                 id: $scope.item.TemaID
-            }, {}, function() {
-                console.info("[TemaEditController][" + "delete success" + "]");
-                $state.go("clarity.tema.list");
+            }, {}, function(data) {
+            
+                
+                if(data.ok){
+                    console.info("[TemaEditController][" + "delete success" + "]");
+                    $state.go("clarity.tema.list");    
+                }else{
+                    alert("Elementos relacionados");
+                    console.info("[TemaEditController] "+data.error);
+                }
+                
             }, function() {
                 console.info("[TemaEditController][" + "delete failure" + "]");
                 $state.go("clarity.tema.list");
